@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-image: url("/resources/images/fosterbuilding.jpg");
+    background-image: url("./resources/images/fosterbuilding.jpg");
     background-position: center;
     background-size: 150%;
     font-weight: bold;
