@@ -1,0 +1,18 @@
+body {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: black;
+    background-image: linear-gradient(rgba(55,0,111,0.8),rgba(55,0,111,0.8)),url("/resources/images/fosterbuilding.jpg");
+    background-position: center;
+    background-size: 150%;
+    font-weight: bold;
+    height: 250px;
+    padding: 20px;
+    text-align: center;
+}
